@@ -64,6 +64,5 @@ Contains three different graphics programs:
 ## Author
 
 Prepared by: **Shreya Menthe**  
-Course: Computer Graphics Lab - PCCOE  
-Academic Year: 2024-25
+Course: Computer Graphics Lab - BVJNIOT 
 
